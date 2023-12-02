@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Waiting Time</string>
+    <string name="enter_doctor_name">Enter doctor name</string>
+    <string name="enter_consultation_time">Enter consultation time</string>
+    <string name="add_doctor">Add Doctor</string>
+    <string name="enter_patient_position">Enter patient Position</string>
+    <string name="waiting_time">Waiting Time</string>
+    <string name="calculate_waiting_time">Calculate waiting time</string>
+</resources>
